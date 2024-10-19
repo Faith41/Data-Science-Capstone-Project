@@ -192,6 +192,32 @@ temperature humidity rain wind_speed temperature 1.000000 -0.516919 -0.818492 0.
 
 ![image](https://github.com/user-attachments/assets/790393ab-b256-47f1-9497-afdb132f5ec2)
 ![image](https://github.com/user-attachments/assets/51d0a64e-c831-4415-b74b-328e8d2d206b)
+INSIGHTS FROM THE ABOVE VISUALIZATION
+1. Average Temperature by City:
+The visualization shows the average temperature for different cities. Cities like Migori and Mombasa have the highest average temperatures (30.72°C and 28.92°C, respectively), while Eldoret has the lowest (21.49°C). This suggests that cities near the coast, like Mombasa, experience higher temperatures due to their proximity to the Indian Ocean, while highland cities like Eldoret are cooler.
+
+2. Average Rainfall by City:
+Cities like Kiambu and Murang’a have higher average rainfall, indicating they might experience frequent rain showers. Meanwhile, cities such as Kakamega, Kisii, and Migori show little or no rainfall in the collected data, suggesting that they were drier during the analyzed period. This information is valuable for weather-sensitive activities like agriculture, especially in identifying regions where irrigation may be needed.
+
+3. Temperature Trends Over Time:
+The line plot of temperature trends over time can reveal seasonal patterns. For instance, you might observe peaks during warmer months or troughs during cooler periods. These trends can help forecast future weather conditions and guide decision-making in sectors like tourism or farming.
+
+4. Humidity and Rainfall Relationship:
+The correlation matrix shows a positive relationship between humidity and rainfall, meaning that regions with higher humidity tend to experience more rainfall. This aligns with general weather patterns, where moisture in the air leads to precipitation.
+
+5. Wind Speed and Weather Factors:
+Wind speed has a weak negative correlation with rainfall but a slight positive correlation with temperature. This indicates that higher winds don’t necessarily coincide with rainfall but may be present in warmer conditions.
+
+6. Correlation Insights:
+Temperature and Rainfall: There’s a strong negative correlation (-0.81), suggesting that as temperature increases, rainfall tends to decrease. This is typical of arid and semi-arid regions.
+Humidity and Rainfall: A positive correlation (0.62) means areas with higher humidity are more likely to experience rainfall, which is expected in tropical climates.
+Conclusion Summary:
+Coastal areas like Mombasa are warmer, while highland areas like Eldoret are cooler.
+Rainfall is more prevalent in regions like Kiambu and Murang’a, making them wetter than others.
+Temperature trends help forecast future weather, which is crucial for agriculture and outdoor planning.
+The correlation between humidity and rainfall is strong, confirming the importance of moisture levels in predicting rain.
+Temperature inversely affects rainfall, indicating drier conditions during hotter periods.
+These insights help in making data-driven decisions in weather-sensitive sectors, such as agriculture and tourism, and in better understanding Kenya’s diverse climatic conditions.
 
 
 
