@@ -4,7 +4,6 @@ Problem Statement
 2. Store it in a database of your choice (relational or non-relational)
 3. Analyze weather patterns using Python.
 The goal is to derive insights into temperature trends, rainfall patterns, and other weather variables across different regions.These insights can help users make informed decisions for weather-sensitive activities, such as agriculture, tourism, and outdoor events.
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -190,5 +189,9 @@ Average Humidity by City: city Bungoma 50.0 Eldoret 60.0 Kakamega 52.0 Kericho 5
 temperature humidity rain wind_speed temperature 1.000000 -0.516919 -0.818492 0.397842 humidity -0.516919 1.000000 0.624435 0.390542 rain -0.818492 0.624435 1.000000 -0.090381 wind_speed 0.397842 0.390542 -0.090381 1.000000
 
 ![image](https://github.com/user-attachments/assets/ab9173bd-dc10-4021-a718-e18770789dfb)
+
+![image](https://github.com/user-attachments/assets/790393ab-b256-47f1-9497-afdb132f5ec2)
+![image](https://github.com/user-attachments/assets/51d0a64e-c831-4415-b74b-328e8d2d206b)
+
 
 
